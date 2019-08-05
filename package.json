@@ -1,0 +1,14 @@
+{
+  "name": "ferrassist",
+  "version": "1.0.0",
+  "description": "The New FerrAssist Core",
+  "main": "Bot.JS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FerreY2004",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js"
+  }
+}
